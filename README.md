@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-An "About me" section that describes your work and interests
-Contributions you're proud of, and context about those contributions
-Guidance for getting help in communities where you're involved
+I just enrolled in a data science full-time bootcamp and I'm super excited to get started!
+- 🌱 I’m looking to develop and collaborate on projects that can better the world
+- 🔭 Machine learning will be my focus
+- ⚡ Fun fact: I chose the in-person bootcamp in Madrid one week and moved there the following week. Gotta move fast!
 
 <!--
 **oresfernando/oresfernando** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
